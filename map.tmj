@@ -1258,7 +1258,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -3371,7 +3371,7 @@
          "name":"Wall",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
